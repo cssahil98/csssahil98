@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently pursuing my Bachelors in Computer Science from Bengalore.
+- 🌱 I’m currently pursuing my Bachelors in Computer Science from Bangalore.
 - 👯 I’m looking to collaborate on ideas related to Python.
 - 🤔 I’m looking for help with Machine Learning & AI.
 - 💬 Ask me about Python.
